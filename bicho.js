@@ -18,8 +18,8 @@ if (!SUPABASE_URL || !SUPABASE_SERVICE_KEY) {
 // Replace [YOUR-PASSWORD] with your database password. Used only to create the tables automatically.
 const DATABASE_URL = process.env.DATABASE_URL;
 
-const CHANNEL = '@bicho_efoot_ball_coin_shop';                   // bot must be admin here
-const CHANNEL_LINK = 'https://t.me/bicho_efoot_ball_coin_shop';
+const CHANNEL = '@nationalefootballethopiya';                   // bot must be admin here
+const CHANNEL_LINK = 'https://t.me/nationalefootballethopiya';
 const GROUP = '@BICHO_EFOOT_BALL_NEWS_GP';                       // bot must be admin here
 const GROUP_LINK = 'https://t.me/BICHO_EFOOT_BALL_NEWS_GP';
 const SALES_CHANNEL = '@bicho_efoot_ball_coin_shop';
